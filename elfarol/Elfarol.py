@@ -91,7 +91,7 @@ def evaler(go, pop, popsize, point):
 	return success
 
 def main():
-
+	#is out of the range 
 	goal = int(sys.argv[1])
 	popsize = int(sys.argv[2])
 
